@@ -1,4 +1,4 @@
-### Hi, I'M Thiago✌️
+### Hi, I'm Thiago✌️
 
   <i>**WEB DEVELOPER**</i> 
 - 📖 Constantly studying the wonderful world of Javascript/Typescript and the latest web technologies
