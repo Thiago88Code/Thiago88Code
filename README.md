@@ -3,10 +3,13 @@
   <i>**WEB DEVELOPER**</i> 
 - 📖 Constantly studying the wonderful world of Javascript/Typescript and the latest web technologies
 - 💻 Currently working on React projects in order to create more dynamic and beautiful UI's
-
-
-- 📫 How to reach me: https://www.linkedin.com/in/th-dev/
-
+</br>
+<div>
+📫 How to reach me: 
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/th-dev/">
+  <img width="80" heigth="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;&nbsp;
+</a>
+</div>
 </br>
 </br>
 
